@@ -3,7 +3,7 @@ class ThemeSh < Formula
   homepage "https://github.com/lemnos/theme.sh"
   url "https://raw.githubusercontent.com/lemnos/theme.sh/master/bin/theme.sh"
   version "1.1.5"
-  sha256 "25cae4e35944c03b04301c6e75dfdb95077a0c10bc80970891578af496f68644"
+  sha256 "606a101bdd18a101c8155a488b5506a7b219fd54005766505356d8177fdb0ff9"
   license "MIT"
 
   def install
